@@ -1,1 +1,1 @@
-# SVG-Essentials
+# SVG Essentials
